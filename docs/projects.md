@@ -16,3 +16,7 @@ Design Patterns and the Spring 5/Spring Boot framework.
 
 An application, intended to be accessible via both desktop and mobile applications 
 that allows a homeowner (or other user) to scheuule 
+
+# Emeralde Gardens Enrollment
+
+An application to process enrollment informaton for single parennts seeking assistance from the Emeralde Gardens Foundation, seeing to donate money, to assist single parents, or to provide services to assist single parents
