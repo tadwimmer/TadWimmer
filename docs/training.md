@@ -69,11 +69,11 @@ This Pluralsight course is far superior to the offering from Udemy, despite bein
 * Angular - The Complete Guide (2020 edition) (not started yet)
 
 # Pluralsight Skills Assessments
-* Java Fundamentals: Proficient, Q score 200, 80th percentile
-* Java Design Patterns: Expert, Q score 212 85th percentile
-* Domain Driven Design: Proficient, Q score 119, 30th percentile (Note: assessment was C#/Microsoft Entity Framework specific)
-* CSS: Proficient, Q score 171, 64th percentile
-* Angular JS: Proficient, Q score 169, 63rd percentile
+* Java Fundamentals: Proficient, Q score 200, 80th percentile (5.6.2020)
+* Java Design Patterns: Expert, Q score 212 85th percentile (4.8.2020)
+* Domain Driven Design: Proficient, Q score 119, 30th percentile (4.8.2020 Note: assessment was C#/Microsoft Entity Framework specific)
+* CSS: Proficient, Q score 171, 64th percentile (10.29.2018)
+* Angular JS: Proficient, Q score 169, 63rd percentile (10/29/2018)
 
 # College, Military and Non-Traditional Education
 
